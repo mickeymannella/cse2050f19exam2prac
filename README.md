@@ -15,5 +15,5 @@ This exam specifically covers:
 - Chapter 14: Mappings and Hash Tables
 
 Email me if you see something wrong in the code or if you would like me to add more examples. I will update the repo as soon as I can!
-email: <michael.mannella@uconn.edu>
-Subject line: Exam 2 Repo
+- email: <michael.mannella@uconn.edu>
+- Subject line: Exam 2 Repo
