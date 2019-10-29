@@ -1,6 +1,8 @@
 from mapping import Mapping
 from listmapping import ListMapping
 
+# need to reimplement __eq__ if you implement __hash__
+
 class HashMapping(Mapping):
     def __init__(self, size = 100):
         self._size = size
